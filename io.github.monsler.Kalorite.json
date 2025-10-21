@@ -25,7 +25,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/Monsler/Kalorite",
-                    "tag": "v1.0.18"
+                    "tag": "v1.1.0.1"
                 }
             ],
             "config-opts": [
