@@ -2,7 +2,7 @@
   "app-id": "io.github.monsler.Kalorite",
   "runtime": "org.kde.Platform",
   "runtime-version": "6.10",
-  "sdk": "org.kde.Sdk",
+  "sdk": "org.kde.Sdk", 
   "command": "kalorite",
   "cleanup": ["/include", "/lib/pkgconfig", "/share/doc", "/share/man"],
   "finish-args": [
